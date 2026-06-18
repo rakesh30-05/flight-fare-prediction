@@ -2,7 +2,7 @@
 
 Predicting flight ticket prices using machine learning, based on airline, route, timing, and stop count — helping customers compare fares and plan their journey.
 
-**🔗 Live App:** [flight-fare-prediction-rakesh30-05.streamlit.app](https://flight-fare-prediction-rakesh30-05.streamlit.app)
+**🔗 Live App:** [flight-fare-prediction-rakesh30-05.streamlit.app](https://flight-fare-prediction-23jbqgkaxpadwmghhbevko.streamlit.app/)
 
 ---
 
